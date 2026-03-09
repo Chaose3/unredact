@@ -11,6 +11,16 @@ Everything runs in the browser — no server required.
 
 ![Green overlay text aligning with surrounding visible text](docs/images/overlay-verification.png)
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=Alex-Gilbert%2Funredact&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Alex-Gilbert/unredact&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Alex-Gilbert/unredact&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Alex-Gilbert/unredact&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## What it does
 
 - **Detects redactions** automatically using computer vision, or manually by clicking
